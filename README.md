@@ -11,8 +11,8 @@ This project is a Face Verification System implemented in Python using various l
 - **Generate HTML Report**: Users can generate an HTML report summarizing the verification results.
 
 ## 🛠️ Installation
-1. Clone the repository: `git clone https://github.com/your_username/face-verification-system.git`
-2. Navigate to the project directory: `cd face-verification-system`
+1. Clone the repository: `git clone https://github.com/your_username/FaceMatch.git`
+2. Navigate to the project directory: `cd FaceMatch`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## 🚀 Usage
