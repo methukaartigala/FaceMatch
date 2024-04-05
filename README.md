@@ -11,8 +11,8 @@ This project is a Face Verification System implemented in Python using various l
 - **Generate PDF Report**: Users can generate a PDF report summarizing the verification results.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/methukaartigala/photo_match.git`
-2. Navigate to the project directory: `cd photo_match`
+1. Clone the repository: `git clone https://github.com/methukaartigala/FaceMatch.git`
+2. Navigate to the project directory: `cd FaceMatch`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
