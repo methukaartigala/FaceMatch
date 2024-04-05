@@ -1,4 +1,4 @@
-# 🎭 Face Verification System Readme
+# 🎭 Face Verification System
 
 ## 🌟 Overview
 This project is a Face Verification System implemented in Python using various libraries including OpenCV, tkinter, DeepFace, PIL (Python Imaging Library), and fpdf. The system allows users to select reference images and a folder containing images to be verified. It then calculates the distance between the faces in the reference images and the faces in the selected folder using DeepFace, and determines whether there is a match based on a predefined threshold. 
