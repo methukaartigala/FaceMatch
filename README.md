@@ -20,7 +20,6 @@ This project is a Face Verification System implemented in Python using various l
 2. Select reference images when prompted.
 3. Select the folder containing images to be verified.
 4. The system will perform face verification and display the results in a graphical user interface.
-5. Optionally, click the "Generate PDF" button to generate a PDF report summarizing the verification results.
 
 ## Notes
 - Ensure that Python and necessary dependencies are installed before running the script.
